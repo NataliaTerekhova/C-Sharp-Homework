@@ -1,0 +1,15 @@
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\bin\Debug\net6.0\Homework1Task2.exe
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\bin\Debug\net6.0\Homework1Task2.deps.json
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\bin\Debug\net6.0\Homework1Task2.runtimeconfig.json
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\bin\Debug\net6.0\Homework1Task2.dll
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\bin\Debug\net6.0\Homework1Task2.pdb
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.AssemblyInfoInputs.cache
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.AssemblyInfo.cs
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.dll
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\refint\Homework1Task2.dll
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.pdb
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\Homework1Task2.genruntimeconfig.cache
+C:\Users\Даниил\Desktop\gb\C#\Homework\Homework\Homework1Task2\obj\Debug\net6.0\ref\Homework1Task2.dll
